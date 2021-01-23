@@ -1,0 +1,286 @@
+{
+    "title": "The Magic Rock restaurant data",
+    "description": "The data used to make restaurant recommendations",
+    "restaurants": [
+        {
+            "id": "1",
+            "name": "Red Lobster",
+            "menuLink": "https:\/\/www.redlobster.com\/menu",
+            "orderLink": "https:\/\/www.redlobster.com\/order",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b1\/Redlobster_logocopia.png\/250px-Redlobster_logocopia.png"
+        },
+        {
+            "id": "2",
+            "name": "Olive Garden",
+            "menuLink": "https:\/\/www.olivegarden.com\/locations\/location-search?redirectToMenu=true&redirectToTarget=true",
+            "orderLink": "https:\/\/www.olivegarden.com\/order-online",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/6\/6d\/Olive_Garden_Logo.svg\/220px-Olive_Garden_Logo.svg.png"
+        },
+        {
+            "id": "3",
+            "name": "Longhorn Steakhouse",
+            "menuLink": "https:\/\/www.longhornsteakhouse.com\/locations\/location-search?redirectToMenu=true&redirectToTarget=true",
+            "orderLink": "https:\/\/www.longhornsteakhouse.com\/locations\/location-search?redirectToMenu=true&redirectToTarget=true",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/7f\/LongHornSteakhouseLogo.PNG\/220px-LongHornSteakhouseLogo.PNG"
+        },
+        {
+            "id": "4",
+            "name": "The Cheesecake Factory",
+            "menuLink": "https:\/\/www.thecheesecakefactory.com\/menu\/",
+            "orderLink": "https:\/\/www.thecheesecakefactory.com\/pickup\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9c\/CheesecakeFactoryLogo1.png"
+        },
+        {
+            "id": "5",
+            "name": "P.F. Chang's",
+            "menuLink": "https:\/\/www.pfchangs.com\/menu",
+            "orderLink": "https:\/\/order.pfchangs.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/87\/P.F._Chang%27s_logo.svg\/220px-P.F._Chang%27s_logo.svg.png"
+        },
+        {
+            "id": "6",
+            "name": "Panda Express",
+            "menuLink": "https:\/\/www.pandaexpress.com\/menu",
+            "orderLink": "https:\/\/order.pandaexpress.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/85\/Panda_Express_logo.svg\/220px-Panda_Express_logo.svg.png"
+        },
+        {
+            "id": "7",
+            "name": "California Pizza Kitchen",
+            "menuLink": "https:\/\/www.cpk.com\/locations",
+            "orderLink": "https:\/\/www.cpk.com\/locations",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/75\/Californiapizzakitchenlogo.png\/200px-Californiapizzakitchenlogo.png"
+        },
+        {
+            "id": "8",
+            "name": "Chili's",
+            "menuLink": "https:\/\/www.chilis.com\/menu",
+            "orderLink": "https:\/\/www.chilis.com\/locations",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3a\/Chili%27s_Logo.svg\/250px-Chili%27s_Logo.svg.png"
+        },
+        {
+            "id": "9",
+            "name": "TGI Fridays",
+            "menuLink": "https:\/\/www.tgifridays.com\/menu",
+            "orderLink": "https:\/\/www.tgifridays.com\/menu",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/44\/Tgi_fridays_logo13.svg\/220px-Tgi_fridays_logo13.svg.png"
+        },
+        {
+            "id": "10",
+            "name": "Buffalo Wild Wings",
+            "menuLink": "https:\/\/www.buffalowildwings.com\/en\/food\/",
+            "orderLink": "https:\/\/www.buffalowildwings.com\/en\/food\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/7e\/Buffalo_wildwings_logo18.png\/220px-Buffalo_wildwings_logo18.png"
+        },
+        {
+            "id": "11",
+            "name": "IHOP",
+            "menuLink": "https:\/\/www.ihop.com\/en\/menu",
+            "orderLink": "https:\/\/www.ihop.com\/en\/order\/confirm-restaurant",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/IHOP_logo.svg\/220px-IHOP_logo.svg.png"
+        },
+        {
+            "id": "12",
+            "name": "Denny's",
+            "menuLink": "https:\/\/order.dennys.com\/locations",
+            "orderLink": "https:\/\/order.dennys.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/37\/Denny%27s_logo.svg\/220px-Denny%27s_logo.svg.png"
+        },
+        {
+            "id": "13",
+            "name": "Waffle House",
+            "menuLink": "https:\/\/www.wafflehouse.com\/breakfast-favorites\/",
+            "orderLink": "https:\/\/locations.wafflehouse.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7c\/Waffle_House_Logo.svg\/220px-Waffle_House_Logo.svg.png"
+        },
+        {
+            "id": "14",
+            "name": "Cracker Barrel",
+            "menuLink": "https:\/\/www.crackerbarrel.com\/menu",
+            "orderLink": "https:\/\/www.crackerbarrel.com\/menu",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/2\/2f\/Cracker_Barrel_Old_Country_Store_logo.svg\/220px-Cracker_Barrel_Old_Country_Store_logo.svg.png"
+        },
+        {
+            "id": "15",
+            "name": "Golden Corral",
+            "menuLink": "https:\/\/www.goldencorral.com\/menu\/",
+            "orderLink": "https:\/\/www.goldencorral.com\/order-online\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e5\/Golden_Corral_logo.svg\/220px-Golden_Corral_logo.svg.png"
+        },
+        {
+            "id": "16",
+            "name": "Steak n Shake",
+            "menuLink": "https:\/\/cos-steak-n-shake.s3.us-west-2.amazonaws.com\/production\/wp-content\/uploads\/2021\/01\/05095925\/Steak-n-Shake-Menu-Holiday-2020.pdf",
+            "orderLink": "https:\/\/www.steaknshake.com\/order-online\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/40\/Steak_%27n_Shake_logo.svg\/220px-Steak_%27n_Shake_logo.svg.png"
+        },
+        {
+            "id": "17",
+            "name": "Firehouse Subs",
+            "menuLink": "https:\/\/www.firehousesubs.com\/our-food\/",
+            "orderLink": "https:\/\/www.firehousesubs.com\/find-a-firehouse\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/Firehouse_Subs_logo.png\/220px-Firehouse_Subs_logo.png"
+        },
+        {
+            "id": "18",
+            "name": "Jimmy John's",
+            "menuLink": "https:\/\/www.jimmyjohns.com\/menu\/",
+            "orderLink": "https:\/\/online.jimmyjohns.com\/?_ga=2.142197627.854875507.1609894003-1963464706.1609894003",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fb\/Jimmy_Johns_logo.svg\/220px-Jimmy_Johns_logo.svg.png"
+        },
+        {
+            "id": "19",
+            "name": "Jersey Mike's Subs",
+            "menuLink": "https:\/\/www.jerseymikes.com\/menu",
+            "orderLink": "https:\/\/www.jerseymikes.com\/menu",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/91\/Jersey_Mike%27s_logo.svg\/235px-Jersey_Mike%27s_logo.svg.png"
+        },
+        {
+            "id": "20",
+            "name": "Long John Silver's",
+            "menuLink": "https:\/\/www.ljsilvers.com\/menu\/",
+            "orderLink": "https:\/\/www.ljsilvers.com\/store-locator\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/02\/Ljsilver_2012_logo.png\/220px-Ljsilver_2012_logo.png"
+        },
+        {
+            "id": "21",
+            "name": "Five Guys",
+            "menuLink": "https:\/\/www.fiveguys.com\/menu",
+            "orderLink": "https:\/\/order.fiveguys.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/80\/Five_Guys_logo.svg\/220px-Five_Guys_logo.svg.png"
+        },
+        {
+            "id": "22",
+            "name": "Subway",
+            "menuLink": "https:\/\/www.subway.com\/en-us\/menunutrition",
+            "orderLink": "https:\/\/www.subway.com\/en-us\/menunutrition",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Subway_2016_logo.svg\/220px-Subway_2016_logo.svg.png"
+        },
+        {
+            "id": "23",
+            "name": "Arby's",
+            "menuLink": "https:\/\/arbys.com\/our-menu",
+            "orderLink": "https:\/\/locations.arbys.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f4\/Arby%27s_logo.svg\/220px-Arby%27s_logo.svg.png"
+        },
+        {
+            "id": "24",
+            "name": "Hardee's",
+            "menuLink": "https:\/\/hardees.com\/Menu",
+            "orderLink": "https:\/\/hardees.com\/locations",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/16\/Hardee%27s_logo_2017.svg\/220px-Hardee%27s_logo_2017.svg.png"
+        },
+        {
+            "id": "25",
+            "name": "Wendy's",
+            "menuLink": "https:\/\/order.wendys.com\/categories?site=menu",
+            "orderLink": "https:\/\/order.wendys.com\/categories?site=menu&delivery=true",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/32\/Wendy%27s_full_logo_2012.svg\/175px-Wendy%27s_full_logo_2012.svg.png"
+        },
+        {
+            "id": "26",
+            "name": "McDonald's",
+            "menuLink": "https:\/\/www.mcdonalds.com\/us\/en-us\/full-menu.html",
+            "orderLink": "https:\/\/www.mcdonalds.com\/us\/en-us\/full-menu.html",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/McDonald%27s_Golden_Arches.svg\/220px-McDonald%27s_Golden_Arches.svg.png"
+        },
+        {
+            "id": "27",
+            "name": "Burger King",
+            "menuLink": "https:\/\/www.bk.com\/nutrition-explorer",
+            "orderLink": "https:\/\/www.bk.com\/store-locator\/service-mode",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cc\/Burger_King_2020.svg\/200px-Burger_King_2020.svg.png"
+        },
+        {
+            "id": "28",
+            "name": "Taco Bell",
+            "menuLink": "https:\/\/www.tacobell.com\/food",
+            "orderLink": "https:\/\/www.tacobell.com\/delivery",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b3\/Taco_Bell_2016.svg\/150px-Taco_Bell_2016.svg.png"
+        },
+        {
+            "id": "29",
+            "name": "KFC",
+            "menuLink": "https:\/\/www.kfc.com\/menu\/promotions",
+            "orderLink": "https:\/\/order.kfc.com\/?fulfillment=pickup&utm_source=kfcweb&utm_medium=homepage&utm_campaign=delivery",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/bf\/KFC_logo.svg\/220px-KFC_logo.svg.png"
+        },
+        {
+            "id": "30",
+            "name": "Chick-fil-A",
+            "menuLink": "https:\/\/www.chick-fil-a.com\/#entr%C3%A9es",
+            "orderLink": "https:\/\/www.chick-fil-a.com\/order",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/02\/Chick-fil-A_Logo.svg\/220px-Chick-fil-A_Logo.svg.png"
+        },
+        {
+            "id": "31",
+            "name": "Popeyes",
+            "menuLink": "https:\/\/www.popeyes.com\/explore-menu",
+            "orderLink": "https:\/\/www.popeyes.com\/store-locator\/service-mode",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/34\/Popeyes_Logo_With_Symbol_2019.svg\/200px-Popeyes_Logo_With_Symbol_2019.svg.png"
+        },
+        {
+            "id": "32",
+            "name": "Chipotle",
+            "menuLink": "https:\/\/www.chipotle.com\/#menu",
+            "orderLink": "https:\/\/www.chipotle.com\/#menu",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/3b\/Chipotle_Mexican_Grill_logo.svg\/220px-Chipotle_Mexican_Grill_logo.svg.png"
+        },
+        {
+            "id": "33",
+            "name": "Domino's Pizza",
+            "menuLink": "https:\/\/www.dominos.com\/en\/pages\/order\/menu",
+            "orderLink": "https:\/\/www.dominos.com\/en\/pages\/order\/#!\/locations\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3e\/Domino%27s_pizza_logo.svg\/120px-Domino%27s_pizza_logo.svg.png"
+        },
+        {
+            "id": "34",
+            "name": "Sonic",
+            "menuLink": "https:\/\/www.sonicdrivein.com\/menu",
+            "orderLink": "https:\/\/order.sonicdrivein.com\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/ff\/SONIC_New_Logo_2020.svg\/220px-SONIC_New_Logo_2020.svg.png"
+        },
+        {
+            "id": "35",
+            "name": "Pizza Hut",
+            "menuLink": "https:\/\/www.pizzahut.com\/index.php?menu=pizza#\/menu\/pizza",
+            "orderLink": "https:\/\/www.pizzahut.com\/index.php?menu=pizza#\/menu\/pizza",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/73\/Pizza_Hut_1967-1999_logo.svg\/220px-Pizza_Hut_1967-1999_logo.svg.png"
+        },
+        {
+            "id": "36",
+            "name": "Little Caesars",
+            "menuLink": "https:\/\/littlecaesars.com\/en-us",
+            "orderLink": "https:\/\/littlecaesars.com\/en-us\/order",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/7e\/Little_Caesars_logo.svg\/250px-Little_Caesars_logo.svg.png"
+        },
+        {
+            "id": "37",
+            "name": "Papa John's",
+            "menuLink": "https:\/\/www.papajohns.com\/order\/menu",
+            "orderLink": "https:\/\/www.papajohns.com\/ordering\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f0\/Papa_John%27s_Logo_2019.svg\/220px-Papa_John%27s_Logo_2019.svg.png"
+        },
+        {
+            "id": "38",
+            "name": "Moe's",
+            "menuLink": "https:\/\/www.moes.com\/menu",
+            "orderLink": "https:\/\/www.moes.com\/delivery",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/80\/Moes_logo.png"
+        },
+        {
+            "id": "39",
+            "name": "Panera Bread",
+            "menuLink": "https:\/\/delivery.panerabread.com\/menu\/category\/",
+            "orderLink": "https:\/\/delivery.panerabread.com\/orderProcess\/",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/cb\/Panera_Bread_logo.svg\/220px-Panera_Bread_logo.svg.png"
+        },
+        {
+            "id": "40",
+            "name": "Ruby Tuesday",
+            "menuLink": "http:\/\/www.rubytuesday.com\/menu",
+            "orderLink": "http:\/\/www.rubytuesday.com\/ruby-tue-go",
+            "logoLink": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/44\/Rubytuesday.svg\/250px-Rubytuesday.svg.png"
+        }
+    ]
+}
